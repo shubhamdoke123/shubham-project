@@ -1009,7 +1009,6 @@ There are a lot of areas for improvement in this pipeline. Some of them are as b
 # Thank you
 
 Thank you for taking the time to work on this tutorial/labs. Let me know what you thought!
-
-#### Author by [Harshhaa Reddy](https://github.com/NotHarshhaa)
+shubham doke
 
 ### Ensure to follow me on GitHub. Please star/share this repository
